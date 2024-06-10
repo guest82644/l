@@ -41,6 +41,11 @@ windows classic
 windows server 2012 r2
 [server_2012r2.zip](https://github.com/muskumlegarm/l/files/15063326/server_2012r2.zip)
 
+windows server 2012
+[server2012.zip](https://github.com/user-attachments/files/15756021/server2012.zip)
+
+windows server 8 beta
+[server8beta (1).zip](https://github.com/user-attachments/files/15756024/server8beta.1.zip)
 
 linux mint theme
 [linux.zip](https://github.com/muskumlegarm/l/files/15151249/linux.zip)
