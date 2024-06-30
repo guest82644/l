@@ -77,5 +77,11 @@ vista
 windows 10 2015
 [win102015.zip](https://github.com/user-attachments/files/15845987/win102015.zip)
 
+omlet arcade windows 8-11
+[omlet arcade windows 8-11.zip](https://github.com/user-attachments/files/16044119/omlet.arcade.windows.8-11.zip)
+
+windows 11 nice
+[b.zip](https://github.com/user-attachments/files/16044120/b.zip)
+
 
 :)
